@@ -13,5 +13,5 @@ This repository introduces the feature to connect your local VSCode to an EC2 in
 - Connect the virtual studio code to the EC2 instance via an SSH connection.
 
 ## 🚀 ACTION MANUAL
-### 1. Create AWS EC2 instance
+### 1. Create an AWS EC2 instance
 
