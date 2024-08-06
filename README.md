@@ -1,2 +1,5 @@
-# REMOTE DEVELOPMENT WITH VS VSCODE AND AWS
-This repository introduces the feature to connect from your local VSCode to your EC2 instance via remote SSH. The access destination will be localhost.
+## REMOTE DEVELOPMENT WITH VS VSCODE AND AWS
+![](https://jimmydqv.com/assets/img/post-vscode-on-aws/vscode-on-aws-thumb.png)
+This repository introduces the feature to connect your local VSCode to an EC2 instance via remote SSH. The access destination will be localhost.
+
+## mission
