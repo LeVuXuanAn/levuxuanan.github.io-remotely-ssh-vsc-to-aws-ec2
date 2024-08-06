@@ -1,17 +1,12 @@
-## REMOTE DEVELOPMENT WITH VS VSCODE AND AWS
+## HƯỚNG DẪN KẾT NỐI VSCODE VỚI AWS EC2 BẰNG KẾT NỐI SSH
 ![](https://jimmydqv.com/assets/img/post-vscode-on-aws/vscode-on-aws-thumb.png)
+Bài viết này sẽ giới thiệu cho bạn cách sử dụng 
 
-This repository introduces the feature to connect your local VSCode to an EC2 instance via remote SSH. The access destination will be localhost.
+## MỤC LỤC
+1. [Giới thiệu về kết nối SSH](https://www.youtube.com/watch?v=sQQjMnEkGjs)
+2. [Ưu điểm của việc kết nối SSH](https://www.youtube.com/watch?v=sQQjMnEkGjs)
+3. [Giới thiệu Remote-SSH Extension trên VSCode](https://www.youtube.com/watch?v=sQQjMnEkGjs)
+4. [Hướng dẫn khởi tạo Ubuntu EC2](https://www.youtube.com/watch?v=sQQjMnEkGjs)
+5. [Hướng dẫn cấu hình kết nối VSCode với EC2]()
 
-## 🏆 MISSION
-- Scalability: Increases scalability and ease of resource management.
-- Cost savings (Cost-effective): Pay on demand and reduce maintenance costs.
-- flexible and mobile (Flexible and mobile): Work remotely and proliferate.
-
-## 🎯 GOAL
-- Connect the command prompt to the EC2 instance via an SSH connection.
-- Connect the virtual studio code to the EC2 instance via an SSH connection.
-
-## 🚀 ACTION MANUAL
-### 1. Create an AWS EC2 instance
 
