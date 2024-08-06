@@ -9,6 +9,51 @@ Bài viết này sẽ giới thiệu cho bạn cách sử dụng
 4. [Hướng dẫn khởi tạo Ubuntu EC2](https://www.youtube.com/watch?v=sQQjMnEkGjs)
 5. [Hướng dẫn cấu hình kết nối VSCode với EC2]()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 1. Giới thiệu kết nối SSH
 
 
